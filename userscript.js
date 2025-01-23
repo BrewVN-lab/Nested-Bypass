@@ -1,18 +1,18 @@
 // ==UserScript==
-// @name         NestedBypass
-// @namespace    NestedBypass
+// @name         Nested Bypass
+// @namespace    Nested Bypass
 // @description  UserScript dùng để Bypass 1 số kèo Game BOT trên Telegram Web
 // @author       BrewVN
 // @license      GPL-3.0
-// @version      1.3
-// @include      *://frogfarm.site/*
-// @include      *://thevertus.app/*
-// @include      *://w-coin.io/*
-// @include      *://bot.crossfi.org/*
-// @include      *://kittymint.xyz/*
-// @include      *://dragoevolution.io/*
-// @include      *://pinai.tech/*
-// @include      *://xworld.info/*
+// @version      1.4
+// @match       *://frogfarm.site/*
+// @match       *://thevertus.app/*
+// @match       *://w-coin.io/*
+// @match       *://bot.crossfi.org/*
+// @match       *://kittymint.xyz/*
+// @match       *://dragoevolution.io/*
+// @match       *://pinai.tech/*
+// @match       *://xworld.info/*
 // @run-at       document-start
 // @grant        none
 // @icon         https://i.ibb.co/19R28gr/icon.png
